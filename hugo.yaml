@@ -132,8 +132,8 @@ params:
     title: "Ashik Islam."
     subtitle: "An aspiring Robotics and Controls Engineer."
     content: "I enjoy working at the intersection of hardware and software, building projects that combine theory with implementation."    
-    # image: /images/OMY/omy_w_ball.png  #TODO: figure out how to have transparent px be transparent
-    image: /images/baymax.png
+    image: /images/OMY/omy_w_ball_no_transparent.png  #TODO: figure out how to have transparent px be transparent
+    # image: /images/baymax.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
