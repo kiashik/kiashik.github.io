@@ -130,8 +130,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Ashik Islam."
-    subtitle: "An aspiring Robotics and Controls Engineer."
-    content: "I enjoy working at the intersection of hardware and software, building projects that combine theory with implementation."    
+    subtitle: "An aspiring Robotics & Controls Engineer."
+    content: "I just really like trying & failing and tuning and trying & failing and trying ..."    
     image: /images/OMY/omy_w_ball_no_transparent.png  #TODO: figure out how to have transparent px be transparent
     # image: /images/baymax.png
     bottomImage:
@@ -420,7 +420,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: If you have any inquries about my project or any opportunies or just wanna chat, contact me via Email or LinkedIn!
     btnName: "Mail me: theashikislam@gmail.com"
     btnLink: mailto:theashikislam@gmail.com
     # formspree:

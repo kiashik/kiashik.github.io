@@ -8,7 +8,7 @@ draft = false
 ## Demo
 
 <video controls width="100%">
-  <source src="/videos/ball_interception_demo_with_trajectory_OMY.mp4" type="video/mp4">
+  <source src="/images/OMY/ball_interception_demo_with_trajectory_OMY.mp4" type="video/mp4">
 </video>
 
 ## Overview

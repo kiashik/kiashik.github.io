@@ -7,7 +7,7 @@ draft = false
 
 ##
 <video controls width="100%">
-  <source src="/videos/ee470_final_demo_v2.mp4" type="video/mp4">
+  <source src="/images/carla_parking/ee470_final_demo_v2.mp4" type="video/mp4">
 </video>
 
 ## Overview
@@ -38,7 +38,7 @@ Once parking begins, the system selects the closest free parking spot and sends 
 ## Results
 
 <video controls width="100%">
-  <source src="/videos/long_park_extended_odom.mp4" type="video/mp4">
+  <source src="/images/carla_parking/long_park_extended_odom.mp4" type="video/mp4">
 </video>
 
 The final system successfully demonstrated an autonomous parking pipeline in simulation. The path planner consistently generated feasible paths from valid starting poses, avoided occupied cells, and guided the vehicle toward the selected parking space.
