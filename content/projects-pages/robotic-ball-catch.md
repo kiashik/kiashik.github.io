@@ -50,4 +50,5 @@ If I continued this project, I would focus on reducing the control latency and t
 
 ## 2026 Cal Poly Project Expo
 ![OMY team at the Expo](/images/OMY/omy_team_at_expo.jpg)
+
 *From left: Raegan Gritzmacher, Ashik Islam, Kayla Go-Oco*
